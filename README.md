@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naitik Bhardwaj</h1>
+<h1 align="center">Hi , I'm Naitik Bhardwaj</h1>
 
 <p align="center">
   <b>Computer Science Student | Full Stack Developer | Data Structures and Algorithms</b>

@@ -124,7 +124,7 @@ A JavaScript-based Sudoku game.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naitik-bhardwaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=naitik-bhardwaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---

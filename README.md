@@ -135,6 +135,12 @@ A JavaScript-based Sudoku game.
   <img src="https://github-profile-trophy.vercel.app/?username=naitik-bhardwaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
 </p>
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naitik-bhardwaj&theme=tokyo-night&hide_border=true"/>
+</p>
+
 ---
 
 ## 🐍 Contribution Snake

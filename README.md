@@ -146,8 +146,7 @@ A JavaScript-based Sudoku game.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naitik-bhardwaj/
-    output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/naitik-bhardwaj/naitik-bhardwaj/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---

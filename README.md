@@ -132,7 +132,7 @@ A JavaScript-based Sudoku game.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naitik_Bhardwaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=naitik-bhardwaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
 </p>
 
 ---
@@ -140,7 +140,8 @@ A JavaScript-based Sudoku game.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naitik-bhardwaj/naitik-bhardwaj/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/naitik-bhardwaj/
+    output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---

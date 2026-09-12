@@ -121,30 +121,6 @@ A JavaScript-based Sudoku game.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naitik-bhardwaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naitik-bhardwaj&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/naitik-bhardwaj/naitik-bhardwaj/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
----
-
 <h3 align="center">💙 Thanks for visiting my profile!</h3>
 
 <p align="center">

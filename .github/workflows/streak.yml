@@ -1,0 +1,21 @@
+name: Generate GitHub Streak
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate streak stats
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          USERNAME: naitik-bhardwaj
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          THEME: tokyo-night

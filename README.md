@@ -97,7 +97,7 @@ A JavaScript-based Sudoku game.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=naitik-bhardwaj&theme=tokyonight&hide_border=true"/>
+  <img src="./profile/streak.svg" alt="GitHub Streak"/>
 </p>
 
 ---

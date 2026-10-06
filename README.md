@@ -83,8 +83,8 @@
 
 ## 🚀 Featured Projects
 
-### 📚 Online Book Store
-A MERN-based online book store project.
+### 📚 StudyMate-AI
+A MERN-based StudyMate Platform.
 
 ### 🧩 DSA Practice
 My collection of Data Structures & Algorithms practice problems in Java.

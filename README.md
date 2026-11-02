@@ -10,18 +10,18 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 Currently pursuing Bachelor of Technology from R.R. Institute of Modern Technology, Lucknow
-- 💻 Interested in Java, Python and MERN Stack
-- 🌱 Currently improving my Data Structures & Algorithms skills
-- 🤖 Exploring Real World Problems
-- 🚀 Building projects to strengthen my development skills
-- 📍 Lucknow, India
+-  Currently pursuing Bachelor of Technology from R.R. Institute of Modern Technology, Lucknow
+-  Interested in Java, Python and MERN Stack
+-  Currently improving my Data Structures & Algorithms skills
+-  Exploring Real World Problems
+-  Building projects to strengthen my development skills
+-  Lucknow, India
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/naitik-bhardwaj1/">
@@ -37,9 +37,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🎨 Frontend
+###  Frontend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -56,21 +56,21 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-### ⚙️ Backend
+###  Backend
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+###  Databases
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### 📊 Data Science & Machine Learning
+###  Data Science & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -81,20 +81,23 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📚 StudyMate-AI
+###  StudyMate-AI
 A MERN-based StudyMate Platform.
 
-### 🧩 DSA Practice
+###  AceMyInterview
+A MERN-based Interview Preparator Platform.
+
+###  DSA Practice
 My collection of Data Structures & Algorithms practice problems in Java.
 
-### 🎮 Sudoku Game
+###  Sudoku Game
 A JavaScript-based Sudoku game.
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak"/>
@@ -102,7 +105,7 @@ A JavaScript-based Sudoku game.
 
 ---
 
-## 🧠 Competitive Programming
+##  Competitive Programming
 
 <p align="center">
   <a href="https://leetcode.com/u/Naitik_Bhardwaj/">
@@ -112,8 +115,8 @@ A JavaScript-based Sudoku game.
 
 ---
 
-<h3 align="center">💙 Thanks for visiting my profile!</h3>
+<h3 align="center"> Thanks for visiting my profile!</h3>
 
 <p align="center">
-  ⭐ Feel free to explore my repositories and connect with me!
+   Feel free to explore my repositories and connect with me!
 </p>
